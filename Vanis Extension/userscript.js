@@ -5,7 +5,8 @@
 // @description  Enhance Vanis.io with custom features
 // @author       Your Name
 // @match        https://vanis.io/*
-// @require      http://localhost:5000/userscript.js// @grant        GM_addStyle
+// @require      https://raw.githack.com/Potter14324/.github.io-Vanis-Extension/edit/main/Vanis%20Extension/userscript.js
+// @grant        GM_addStyle
 // ==/UserScript==
 
 (function() {
